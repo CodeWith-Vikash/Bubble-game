@@ -88,9 +88,14 @@ button{
 }
 @media(max-width:375px){
     nav b{
-        font-size: 2.5vmax;
+        font-size: 2vmax;
     }
     button{
-        font-size: 2.5vmax;
+        font-size: 2vmax;
+    }
+    .bubble{
+        /* font-size: 2vmax; */
+        width: 9vw;
+        height: 7vh;
     }
 }
